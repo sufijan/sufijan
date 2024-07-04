@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-> I am a highly motivated developer with expertise in building reliable applications using **Kotlin, Angular, and testing**.
+> I am a highly motivated developer with preferences building applications using **Kotlin, Angular, and testing**.
 >
 > I am eager to learn new technologies and further develop my frontend skills, especially in Angular. I have worked with **Selenium testing** and created diveristy of **unit tests**.
 > 
